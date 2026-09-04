@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/(.*)",
+      "destination": "https://portfolio-backend-mhpnhy84c-anas-projects-8cb9ba05.vercel.app/"
+    }
+  ]
+}
